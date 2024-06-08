@@ -1,0 +1,15 @@
+#container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+button{
+    border: 2px solid black;
+    padding: 15px 30px;
+    border-radius: 10px;
+    font-size: 25px;
+    background-color: rgb(233, 31, 31);
+    color: aliceblue;
+    margin-top: 10px;
+}
